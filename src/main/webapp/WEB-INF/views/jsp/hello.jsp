@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">welcome to codingrad devops</a>
+		<a class="navbar-brand" href="#">welcome to codingrad devops from Dinesh</a>
 	</div>
   </div>
 </nav>
